@@ -1,4 +1,4 @@
-package constructor;
+package private_constructor;
 
 class Animal{
     private String name,age,weight;

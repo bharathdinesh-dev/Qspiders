@@ -1,4 +1,4 @@
-package constructor;
+package private_constructor;
 class getAnimal{
     public static void main(String[] args) {
         Animal a1=Animal.getAnimalObj("tiger","12","1200");
