@@ -1,4 +1,4 @@
-package Qspiders_java;
+package Qspiders_java.Is_a_relationship;
 
 public class Child {
 

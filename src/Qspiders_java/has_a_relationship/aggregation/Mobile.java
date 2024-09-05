@@ -1,4 +1,4 @@
-package Qspiders_java.relationship.aggregation;
+package Qspiders_java.has_a_relationship.aggregation;
 
 public class Mobile {
 	//states

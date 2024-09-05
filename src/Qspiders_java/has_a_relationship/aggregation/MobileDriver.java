@@ -1,4 +1,4 @@
-package Qspiders_java.relationship.aggregation;
+package Qspiders_java.has_a_relationship.aggregation;
 import java.util.Scanner;
 public class MobileDriver {
 	static Scanner sc=new Scanner(System.in);
